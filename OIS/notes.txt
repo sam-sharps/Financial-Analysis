@@ -1,0 +1,7 @@
+nice database for OIS rates...
+
+just type any business day after Jan 2009 in the URL ('yyyymmdd' format) and you will get a download of the US OIS curve from 1m to 30y tenor
+
+hard to find rates derivs data that is free to the public so kinda cool tbh
+
+http://markit.com/news/InterestRates_USD_20220526.zip

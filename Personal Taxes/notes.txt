@@ -1,0 +1,19 @@
+Jessica Income <192,000
+Sam Income <625,000
+
+Total Income < 817,000
+
+Federal
+3/31/2022 withheld 94716.58
+3/25/2022 withheld 5065.40
+
+4/15/2022 withheld 96829.10
+
+
+
+Tax liability = 168,993.50 + 0.37 * (817,000-628,300)
+              = 238,813
+              < 240,000
+              which is ~30% tax rate
+
+
